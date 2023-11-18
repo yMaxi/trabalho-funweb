@@ -1,0 +1,89 @@
+table {
+  border-collapse: collapse;
+  width: 100%;
+
+}
+
+th, td {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+.superior {
+  background-color: #000000;
+  font-weight: bold;
+}
+#cordocontato{
+  color: rgb(203, 238, 4);
+}
+
+
+#imagem-3d {
+  width: 40%;
+  height: auto;
+  float: right;
+  border-radius: 10px; 
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); 
+  margin: 60px 60px 60px 0px; 
+}
+
+
+
+#yyy ,.conquista {
+  width: 50%;
+  float: left;
+  padding: 20px;
+  box-sizing: border-box; 
+  color: #fff; 
+  font-size: 1.5em; 
+  font-family: 'Arial', sans-serif; 
+  line-height: 1.6;
+}
+.superior{
+  width: 50%;
+  float: left;
+  padding: 20px;
+  box-sizing: border-box;
+  color: #fff;
+  font-size: 1.5em;
+  font-family: 'Arial', sans-serif;
+  line-height: 1.6;
+}
+
+body {
+  
+  background: url('img1.jpg') no-repeat center center fixed; 
+  background-size: cover; 
+}
+
+header {
+  background-color: rgba(0, 0, 0, 0.7);
+  color: #fff;
+  padding: 1em;
+  text-align: center;
+}
+
+nav ul {
+  list-style: none;
+  padding: 0;
+}
+
+nav ul li {
+  display: inline;
+  margin-right: 20px;
+}
+
+section {
+  padding: 20px;
+}
+
+footer {
+  background-color: rgba(0, 0, 0, 0.7); 
+  color: #fff;
+  text-align: center;
+  padding: 1em;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
